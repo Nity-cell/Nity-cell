@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on *python*
+- 🔭 I’m currently working on __python__
 - 🌱 I’m currently learning __AI__
 - 👯 I’m looking to collaborate on __projects__
 - 🤔 I’m looking for help with __coding__
 - 💬 Ask me about __AI__
-- 📫 **_How to reach me-**:__nity-cell__
+- 📫 **_How to reach me_**:__nity-cell__
 - 😄 **_Pronouns_**:__she/her__
 
 
